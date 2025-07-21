@@ -14,3 +14,5 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs
 # 2-3 [POST / GET] update main.py
 # make def (aboutGetName) for get value from endpoint
+# make def (getList) for get list
+# make def (addToList) for POST method

@@ -1,4 +1,4 @@
-# 1-2 [] make main.py // make venv:
+# 1-2 [ّFastAPI] make main.py // make venv:
 py -m venv env
 # active venv
 env\Scripts\activate.ps1
@@ -10,3 +10,5 @@ pip install uvicorn
 # run server with "uvicorn"
 uvicorn main:app --reload
 # localhost:8000
+# 2-2 [Swagger] API Documentation:
+http://127.0.0.1:8000/docs

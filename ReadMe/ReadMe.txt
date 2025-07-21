@@ -20,3 +20,4 @@ http://127.0.0.1:8000/docs
 # make def (addToList) for POST method
 
 # 2-4 [PUT / DELETE] make (updateList) for put method
+# make (deleteFromList) for delete method

@@ -29,3 +29,9 @@ def addToList(number:int):
 def updateList(index:int, newNumber:int):
     myList[index] = newNumber
     return {"UpdatedList":myList}
+
+# DELETE method
+@app.delete("/delete/{number:int}")
+def deleteFromList(number:int):
+    myList.remove(number)
+    return {"List":myList}

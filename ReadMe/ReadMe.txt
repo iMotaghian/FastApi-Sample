@@ -21,3 +21,8 @@ http://127.0.0.1:8000/docs
 
 # 2-4 [PUT / DELETE] make (updateList) for put method
 # make (deleteFromList) for delete method
+
+# 3-1 [DB] -> https://docs.sqlalchemy.org/en/20/intro.html#installation
+pip install SQLAlchemy
+
+# 3-2 [Class Model]

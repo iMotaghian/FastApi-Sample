@@ -25,4 +25,5 @@ http://127.0.0.1:8000/docs
 # 3-1 [DB] -> https://docs.sqlalchemy.org/en/20/intro.html#installation
 pip install SQLAlchemy
 
-# 3-2 [Class Model]
+# 3-2 [Class Model] make class (mySchoolClasses)
+# set DB: make database.py

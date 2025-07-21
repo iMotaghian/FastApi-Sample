@@ -13,4 +13,4 @@ uvicorn main:app --reload
 # 2-2 [Swagger] API Documentation:
 http://127.0.0.1:8000/docs
 # 2-3 [POST / GET] update main.py
-# make def for get value from endpoint
+# make def (aboutGetName) for get value from endpoint

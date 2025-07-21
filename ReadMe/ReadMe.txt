@@ -10,9 +10,13 @@ pip install uvicorn
 # run server with "uvicorn"
 uvicorn main:app --reload
 # localhost:8000
+
 # 2-2 [Swagger] API Documentation:
 http://127.0.0.1:8000/docs
+
 # 2-3 [POST / GET] update main.py
 # make def (aboutGetName) for get value from endpoint
 # make def (getList) for get list
 # make def (addToList) for POST method
+
+# 2-4 [PUT / DELETE] make (updateList) for put method

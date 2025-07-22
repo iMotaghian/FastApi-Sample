@@ -31,3 +31,8 @@ pip install SQLAlchemy
 # 3-3 [make model database] make models.py
 # import models in main.py
 # read_school_class
+
+# 3-4 [make file and connect to DB] read_school_class 
+# get.post create_school_class
+
+# 3-5 []

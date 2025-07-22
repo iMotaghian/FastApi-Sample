@@ -37,3 +37,5 @@ pip install SQLAlchemy
 
 # 3-5 [edit data]
 # app.put / schoolClassUpdate
+
+# 3-5 [delete] app.delete / delete_school_class

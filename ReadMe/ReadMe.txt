@@ -35,4 +35,5 @@ pip install SQLAlchemy
 # 3-4 [make file and connect to DB] read_school_class 
 # get.post create_school_class
 
-# 3-5 []
+# 3-5 [edit data]
+# app.put / schoolClassUpdate
